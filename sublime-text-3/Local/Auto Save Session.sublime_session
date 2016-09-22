@@ -1,0 +1,2150 @@
+{
+	"folder_history":
+	[
+		"/home/sandeep/github/BTP",
+		"/home/sandeep/github/btp",
+		"/home/sandeep/github/lepton-master",
+		"/home/sandeep/Selene",
+		"/home/sandeep/github/AnimeScrapper",
+		"/home/sandeep/BTP",
+		"/home/sandeep/IR",
+		"/home/sandeep/stanford-corenlp-python",
+		"/home/sandeep/btp",
+		"/media/sandeep/My Passport/IR",
+		"/home/sandeep/IR/IR",
+		"/home/sandeep/Desktop/ass6_try",
+		"/home/sandeep/Desktop/ass_6_13CS30004",
+		"/home/sandeep/networksLab/ass5",
+		"/home/sandeep/Desktop/ass_5_13CS30004",
+		"/home/sandeep/apollo-api",
+		"/home/sandeep/IR/IR/data/tech1",
+		"/home/sandeep/networksLab",
+		"/home/sandeep/code/pullplaylist",
+		"/home/sandeep/code/kyot-sunday-playlists",
+		"/home/sandeep/code/youtube-playlist-info",
+		"/home/sandeep/networksLab/ass4",
+		"/home/sandeep/Desktop/Opensoft-2016",
+		"/home/sandeep/networksLab/ass3",
+		"/home/sandeep/networksLab/ass2",
+		"/home/sandeep/networksLab/ass1",
+		"/home/sandeep/Desktop/sem6/OS/ass_5_13CS30004",
+		"/home/sandeep/Desktop/ass5_13CS30027",
+		"/home/sandeep/dbmsass3",
+		"/home/sandeep/code",
+		"/home/sandeep/Networks_lab/ass1",
+		"/home/sandeep/Networks_lab/ass4",
+		"/home/sandeep/Desktop/socket.io",
+		"/home/sandeep/Desktop/Simple-realtime-message-SocketIO-NodeJS-CI",
+		"/home/sandeep/Desktop/chat-example",
+		"/home/sandeep/Networks_lab/ass3",
+		"/home/sandeep/Desktop/btp",
+		"/home/sandeep/Desktop/psitsmike_example_2",
+		"/home/sandeep/Desktop/chat-example-master",
+		"/home/sandeep/dbmsass3/public"
+	],
+	"last_version": 3083,
+	"last_window_id": 487,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"vi",
+						"visited"
+					],
+					[
+						"pr",
+						"prob"
+					],
+					[
+						"ans",
+						"currAnswer"
+					],
+					[
+						"y1",
+						"y1-1"
+					],
+					[
+						"x1",
+						"x1-1"
+					],
+					[
+						"sum",
+						"sumToFind"
+					],
+					[
+						"sl",
+						"slopey"
+					],
+					[
+						"slo",
+						"slopey"
+					],
+					[
+						"count",
+						"countNon"
+					],
+					[
+						"cou",
+						"countNon"
+					],
+					[
+						"cun",
+						"count1"
+					],
+					[
+						"le",
+						"length1"
+					],
+					[
+						"index",
+						"index2"
+					],
+					[
+						"idnex",
+						"index1"
+					],
+					[
+						"inedx",
+						"index2"
+					],
+					[
+						"inex",
+						"index2"
+					],
+					[
+						"max",
+						"maxProfit"
+					],
+					[
+						"cost",
+						"costDelete"
+					],
+					[
+						"cos",
+						"costInsert"
+					],
+					[
+						"ma",
+						"maxIndex"
+					],
+					[
+						"cout",
+						"count2"
+					],
+					[
+						"fnd",
+						"findVal"
+					],
+					[
+						"find",
+						"findVal"
+					],
+					[
+						"left",
+						"leftMost"
+					],
+					[
+						"INT",
+						"INT_MAX"
+					],
+					[
+						"INT_",
+						"INT_MAX"
+					],
+					[
+						"INT_M",
+						"INT_MIN"
+					],
+					[
+						"st",
+						"start1"
+					],
+					[
+						"pre",
+						"prevMax"
+					],
+					[
+						"prev",
+						"prevMax"
+					],
+					[
+						"curr",
+						"currSum"
+					],
+					[
+						"begin",
+						"beginIndex"
+					],
+					[
+						"be",
+						"beginIndex"
+					],
+					[
+						"pri",
+						"prime"
+					],
+					[
+						"op",
+						"opera"
+					],
+					[
+						"oper",
+						"opera"
+					],
+					[
+						"opera",
+						"operate"
+					],
+					[
+						"num",
+						"num2"
+					],
+					[
+						"cla",
+						"calculate"
+					],
+					[
+						"end",
+						"end1"
+					],
+					[
+						"answ",
+						"answerNum"
+					],
+					[
+						"nu",
+						"number2"
+					],
+					[
+						"mul",
+						"multiply"
+					],
+					[
+						"numb",
+						"number2"
+					],
+					[
+						"next",
+						"nextNum1"
+					],
+					[
+						"nex",
+						"nextNum1"
+					],
+					[
+						"in",
+						"indEdges"
+					],
+					[
+						"word",
+						"word"
+					],
+					[
+						"uno",
+						"unordered_set"
+					],
+					[
+						"den",
+						"denominator"
+					],
+					[
+						"fr",
+						"fractionToDecimal"
+					],
+					[
+						"de",
+						"denominator"
+					],
+					[
+						"coff",
+						"coff"
+					],
+					[
+						"dist",
+						"distance"
+					],
+					[
+						"dic",
+						"diction"
+					],
+					[
+						"dict",
+						"diction"
+					],
+					[
+						"TR",
+						"TrieNode"
+					],
+					[
+						"Tri",
+						"TrieNode"
+					],
+					[
+						"get",
+						"getList"
+					],
+					[
+						"poss",
+						"possr"
+					],
+					[
+						"po",
+						"isPowerOfThree"
+					],
+					[
+						"push",
+						"push_back"
+					],
+					[
+						"tok",
+						"token2"
+					],
+					[
+						"toke",
+						"token2"
+					],
+					[
+						"vers",
+						"version2"
+					],
+					[
+						"string",
+						"stringstream"
+					],
+					[
+						"root",
+						"root1"
+					],
+					[
+						"co",
+						"copyRandomList"
+					],
+					[
+						"Ran",
+						"RandomListNode"
+					],
+					[
+						"Ra",
+						"RandomListNode"
+					],
+					[
+						"rnad",
+						"randomHead"
+					],
+					[
+						"cur",
+						"currWord"
+					],
+					[
+						"unord",
+						"unordered_map"
+					],
+					[
+						"cunt",
+						"count2"
+					],
+					[
+						"let",
+						"leftWall"
+					],
+					[
+						"val",
+						"valid"
+					],
+					[
+						"las",
+						"lastOne"
+					],
+					[
+						"last",
+						"lastOne"
+					],
+					[
+						"wo",
+						"word2"
+					],
+					[
+						"wor",
+						"word1"
+					],
+					[
+						"a",
+						"answer1"
+					],
+					[
+						"new",
+						"newInterval"
+					],
+					[
+						"inter",
+						"intervals"
+					],
+					[
+						"In",
+						"Interval"
+					],
+					[
+						"mult",
+						"multiplyWith"
+					],
+					[
+						"Err",
+						"Error4"
+					],
+					[
+						"Error",
+						"Error4"
+					],
+					[
+						"n-1-c",
+						"n-1-counter1"
+					],
+					[
+						"n-1-",
+						"n-1-counter1"
+					],
+					[
+						"sol",
+						"solveSudoku"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"answer",
+						"answer"
+					],
+					[
+						"divi",
+						"divide"
+					],
+					[
+						"reve",
+						"reverseKGroup"
+					],
+					[
+						"ined",
+						"index3"
+					],
+					[
+						"tr",
+						"tryAll"
+					],
+					[
+						"ie",
+						"index2"
+					],
+					[
+						"com",
+						"combinationSum4"
+					],
+					[
+						"lo",
+						"localSmallest"
+					],
+					[
+						"tot",
+						"totalLeft"
+					],
+					[
+						"reverse",
+						"reverseWords"
+					],
+					[
+						"is",
+						"isZero"
+					],
+					[
+						"Lin",
+						"ListNode"
+					],
+					[
+						"ino",
+						"inorderRetrive"
+					],
+					[
+						"lower",
+						"lowerAll"
+					],
+					[
+						"cu",
+						"count2"
+					],
+					[
+						"la",
+						"lanswer"
+					],
+					[
+						"coun",
+						"count2"
+					],
+					[
+						"un",
+						"unordered_map"
+					],
+					[
+						"foll",
+						"followeeId"
+					],
+					[
+						"follo",
+						"followeeId"
+					],
+					[
+						"user",
+						"userId"
+					],
+					[
+						"twee",
+						"tweetId"
+					],
+					[
+						"cm",
+						"combinationSum4"
+					],
+					[
+						"en",
+						"envelopes"
+					],
+					[
+						"psuh",
+						"push_back"
+					],
+					[
+						"isE",
+						"isEndr"
+					],
+					[
+						"isen",
+						"isEndr"
+					],
+					[
+						"upp",
+						"upper_bound"
+					],
+					[
+						"med",
+						"MedianFinder"
+					],
+					[
+						"fir",
+						"firstBadVersion"
+					],
+					[
+						"h",
+						"hIndex"
+					],
+					[
+						"grou",
+						"group2"
+					],
+					[
+						"all",
+						"allXor"
+					],
+					[
+						"ll",
+						"llevel"
+					],
+					[
+						"make",
+						"makeNewNode"
+					],
+					[
+						"sta",
+						"stackOp"
+					],
+					[
+						"stac",
+						"stackNum"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 193.0,
+				"last_filter": "remove",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"pref",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"toggle",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 176.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sandeep/code/temp.cpp",
+				"/home/sandeep/code/untitled1.cpp",
+				"/home/sandeep/code/untitled4.cpp",
+				"/home/sandeep/code/untitled5.cpp",
+				"/home/sandeep/code/test.cpp",
+				"/home/sandeep/code/untitled7.cpp",
+				"/home/sandeep/code/untitled2.cpp",
+				"/home/sandeep/code/input.in",
+				"/home/sandeep/Downloads/B-small-attempt0 (4).in",
+				"/home/sandeep/Downloads/B-small-attempt0 (3).in",
+				"/home/sandeep/code/test.txt",
+				"/home/sandeep/Downloads/A-small-attempt0 (1).in",
+				"/home/sandeep/code/untitled3.cpp",
+				"/home/sandeep/Downloads/test.cpp",
+				"/home/sandeep/github/ICPC/CODEFORCES/60-C.cpp",
+				"/home/sandeep/github/ICPC/CODEFORCES/294-E.cpp",
+				"/home/sandeep/Downloads/animals_TREE.tsv",
+				"/home/sandeep/Downloads/ai_TREE.tsv",
+				"/home/sandeep/github/ICPC/CODEFORCES/528-D.cpp",
+				"/home/sandeep/github/ICPC/CODEFORCES/475-D.cpp",
+				"/home/sandeep/Selene/app/googleSignin.js",
+				"/home/sandeep/Selene/app/musixMatch.js",
+				"/home/sandeep/github/btp/apiTesting.js",
+				"/home/sandeep/github/ICPC/CODECHEF/CHPLNTS.cpp",
+				"/home/sandeep/github/ICPC/CODEFORCES/475-E.cpp",
+				"/home/sandeep/code/input.txt",
+				"/home/sandeep/code/test.in",
+				"/home/sandeep/github/ICPC/DinicFlow.cpp",
+				"/home/sandeep/github/ICPC/template.cpp",
+				"/home/sandeep/code/703-D.cpp",
+				"/home/sandeep/code/tree.txt",
+				"/home/sandeep/github/ICPC/trie.cpp",
+				"/home/sandeep/github/ICPC/treap.cpp",
+				"/home/sandeep/.cache/.fr-tA58LI/input002.txt",
+				"/home/sandeep/.cache/.fr-nCV2yD/output002.txt",
+				"/home/sandeep/.cache/.fr-2eRTp0/input002.txt",
+				"/home/sandeep/Downloads/Pani_CV (3).tex",
+				"/home/sandeep/Pani_CV/layaureo.sty",
+				"/home/sandeep/Pani_CV/titlesec.sty",
+				"/home/sandeep/Pani_CV/xltxtra.sty",
+				"/home/sandeep/.cache/.fr-tzR4R5/ReadMe.txt",
+				"/home/sandeep/Pani_CV/xunicode.sty",
+				"/home/sandeep/.cache/.fr-tFn2Qe/xunicode/README",
+				"/home/sandeep/Selene/app/routes/APIRouter.js",
+				"/home/sandeep/github/AnimeScrapper/app/routes/APIRouter.ja",
+				"/home/sandeep/github/AnimeScrapper/app",
+				"/home/sandeep/Selene/package.json",
+				"/home/sandeep/Downloads/sub-3.in",
+				"/home/sandeep/Downloads/B-small-practice.in",
+				"/home/sandeep/Downloads/B-large-practice.in",
+				"/home/sandeep/Downloads/B-small-practice (1).in",
+				"/home/sandeep/code/output.txt",
+				"/home/sandeep/.cache/.fr-PGSLmf/untitled1.cpp",
+				"/home/sandeep/Pani_CV/Pani_CV.aux",
+				"/home/sandeep/Pani_CV/Pani_CV.log",
+				"/home/sandeep/github/ICPC/auxilliaryTree.cpp",
+				"/home/sandeep/github/ICPC/blockCutTree.cpp",
+				"/home/sandeep/github/lepton-master/README.md",
+				"/home/sandeep/github/lepton-master/configure.ac",
+				"/home/sandeep/github/lepton-master/test_suite/sockettester.py",
+				"/home/sandeep/github/include/git2.h",
+				"/home/sandeep/github/include/git2/branch.h",
+				"/home/sandeep/github/include/untitled2.cpp",
+				"/home/sandeep/github/lepton-master/src/io/BoundedMemWriter.hh",
+				"/home/sandeep/github/lepton-master/src/io/Allocator.hh",
+				"/home/sandeep/github/lepton-master/dependencies/zlib/zutil.c",
+				"/home/sandeep/github/lepton-master/dependencies/zlib/zutil.h",
+				"/home/sandeep/github/lepton-master/dependencies/config.h",
+				"/home/sandeep/github/lepton-master/images/trailingrst2.jpg",
+				"/home/sandeep/github/lepton-master/images/truncatedzerorun.jpg",
+				"/home/sandeep/github/lepton-master/images/gray2sf.jpg",
+				"/home/sandeep/github/lepton-master/images/gold-legacy.lep",
+				"/home/sandeep/github/lepton-master/images/android.jpg",
+				"/home/sandeep/github/lepton-master/src/vp8/model/model.hh",
+				"/home/sandeep/github/lepton-master/src/lepton/test_custom_table.sh",
+				"/home/sandeep/github/lepton-master/src/lepton/recoder.cc",
+				"/home/sandeep/github/lepton-master/src/lepton/lepton_codec.hh",
+				"/home/sandeep/github/lepton-master/src/lepton/lepton_codec.cc",
+				"/home/sandeep/github/lepton-master/test_suite/forktester.py",
+				"/home/sandeep/github/lepton-master/analysis/make-cdf",
+				"/home/sandeep/github/lepton-master/test_suite/smalljpg.hh",
+				"/home/sandeep/github/lepton-master/src/vp8/model/JpegArithmeticCoder.cc",
+				"/home/sandeep/github/lepton-master/analysis/time-parser",
+				"/home/sandeep/code/temp.txt",
+				"/home/sandeep/Downloads/C-small-practice.in",
+				"/home/sandeep/Downloads/C-large-practice.in",
+				"/home/sandeep/Downloads/A-large.in",
+				"/home/sandeep/Downloads/B-small-attempt0.in",
+				"/home/sandeep/Downloads/B-small-attempt0 (1).in",
+				"/home/sandeep/Downloads/A-small-attempt0.in",
+				"/home/sandeep/.cache/.fr-jjK78R/C.cpp",
+				"/home/sandeep/Downloads/sub-6.out",
+				"/home/sandeep/Downloads/sub-6.in",
+				"/home/sandeep/.cache/.fr-rQ3AG2/untitled1.cpp",
+				"/home/sandeep/Downloads/untitled1.cpp",
+				"/home/sandeep/.config/sublime-text-3/Packages/C++11/messages/install.txt",
+				"/home/sandeep/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/sandeep/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/sandeep/.config/sublime-text-3/Packages/Material Theme/README.md",
+				"/home/sandeep/.config/sublime-text-3/Local/Session.sublime_session",
+				"/home/sandeep/ghostwriternr.github.io/js/app.js",
+				"/home/sandeep/Desktop_stuff/Questions/Question1",
+				"/home/sandeep/Selene/server.js",
+				"/home/sandeep/IR/FrontEnd/server.js",
+				"/home/sandeep/bot/app.js",
+				"/home/sandeep/locate",
+				"/home/sandeep/Downloads/B-small-practice (15).in",
+				"/home/sandeep/Downloads/B-small-practice (16).in",
+				"/home/sandeep/imp.txt",
+				"/home/sandeep/code/output1.txt",
+				"/home/sandeep/Downloads/B-small-practice (14).in",
+				"/home/sandeep/Downloads/B-small-practice (13).in",
+				"/home/sandeep/Downloads/B-small-practice (12).in",
+				"/home/sandeep/Downloads/B-small-practice (6).in",
+				"/home/sandeep/Downloads/B-small-practice (7).in",
+				"/home/sandeep/Downloads/B-small-practice (8).in",
+				"/home/sandeep/Downloads/B-small-practice (11).in",
+				"/home/sandeep/Downloads/B-small-practice (10).in",
+				"/home/sandeep/Downloads/B-small-practice (9).in",
+				"/home/sandeep/Downloads/B-small-practice (4).in",
+				"/home/sandeep/Downloads/B-small-practice (5).in",
+				"/home/sandeep/Downloads/B-small-practice (3).in",
+				"/home/sandeep/mutagen-1.31/README.rst",
+				"/home/sandeep/Desktop/picard-release-1.3.2/INSTALL.txt",
+				"/home/sandeep/Desktop/picard-release-1.3.2/README.md",
+				"/home/sandeep/Desktop_stuff/medicinelist.txt",
+				"/home/sandeep/app/test.js",
+				"/home/sandeep/app/network.js"
+			],
+			"find":
+			{
+				"height": 77.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"resl",
+					"A[i]",
+					"!flag",
+					"INT_MAX",
+					"sol",
+					"nums[",
+					"[i]",
+					"B[",
+					"A[",
+					"int",
+					"'X';",
+					"TreeNode",
+					"heap",
+					",",
+					"0",
+					"++;\n",
+					"val",
+					"mp1",
+					";\n",
+					">x",
+					">",
+					";\n",
+					"A[",
+					";\n",
+					"start1",
+					"shift",
+					"|| count1[j]==0",
+					"ll",
+					"k",
+					"p.size()",
+					"s.size()",
+					";\n",
+					"[i]",
+					"'){",
+					";\n",
+					"-'a'",
+					"0",
+					"isEnd",
+					" *",
+					"ll",
+					"+1",
+					".first",
+					";\n",
+					"'];\n",
+					"]]++;\n",
+					";\n",
+					" *",
+					"2",
+					"matrix",
+					"present",
+					"num[",
+					"a",
+					"			l=mid+1;\n",
+					";\n",
+					"int",
+					"();\n",
+					"asnwerHead",
+					"index",
+					"A[i]",
+					",",
+					"\n",
+					",",
+					"]);\n",
+					"Error",
+					"size1[edges[i].x.x]",
+					"size1[edges[i].x.y]",
+					"answerFirst",
+					");\n",
+					"//qwe",
+					"bitset",
+					"//qwe",
+					"')",
+					"\n",
+					"\n    ",
+					"\n",
+					"code",
+					"vi",
+					"}\n",
+					"val",
+					"edgeList",
+					"ignore",
+					"quant",
+					"qqwe",
+					";\n",
+					"a",
+					"find",
+					"a[i]",
+					"}\n",
+					"delete",
+					"v1",
+					"s2",
+					"->",
+					";\n",
+					"->",
+					"A",
+					"next",
+					"curr1",
+					"compare",
+					",",
+					";\n",
+					"i",
+					" >",
+					";\n",
+					"error",
+					"j",
+					"i",
+					"	\n",
+					";;\n",
+					"a",
+					";\n",
+					",",
+					";\n",
+					"();\n",
+					";\n",
+					"*",
+					"error",
+					");\n",
+					"ll",
+					");\n",
+					"child1",
+					"referPath",
+					"child",
+					"parent",
+					"error",
+					";\n",
+					"];\n",
+					"*",
+					"y"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\n",
+					"index1",
+					"\\n",
+					"\"\\n\"",
+					"",
+					"//error",
+					"index1",
+					"hash1",
+					"",
+					"prev11",
+					"dp1",
+					"prev1",
+					"-10000000000000000LL",
+					"parent",
+					"'",
+					"40",
+					"buffer",
+					"args2",
+					"prev1",
+					"rank1",
+					"=",
+					"next_state",
+					"cur_state",
+					"",
+					"  ",
+					" ",
+					"",
+					"out",
+					"13CS30027",
+					"yytext[0]"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 76.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 61.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 29.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 125.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 444.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 444.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 227.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"min",
+						"minimalModify"
+					],
+					[
+						"vi",
+						"visited"
+					],
+					[
+						"pr",
+						"prob"
+					],
+					[
+						"ans",
+						"currAnswer"
+					],
+					[
+						"y1",
+						"y1-1"
+					],
+					[
+						"x1",
+						"x1-1"
+					],
+					[
+						"sum",
+						"sumToFind"
+					],
+					[
+						"sl",
+						"slopey"
+					],
+					[
+						"slo",
+						"slopey"
+					],
+					[
+						"count",
+						"countNon"
+					],
+					[
+						"cou",
+						"countNon"
+					],
+					[
+						"cun",
+						"count1"
+					],
+					[
+						"le",
+						"length1"
+					],
+					[
+						"index",
+						"index2"
+					],
+					[
+						"idnex",
+						"index1"
+					],
+					[
+						"inedx",
+						"index2"
+					],
+					[
+						"inex",
+						"index2"
+					],
+					[
+						"max",
+						"maxProfit"
+					],
+					[
+						"cost",
+						"costDelete"
+					],
+					[
+						"cos",
+						"costInsert"
+					],
+					[
+						"ma",
+						"maxIndex"
+					],
+					[
+						"cout",
+						"count2"
+					],
+					[
+						"fnd",
+						"findVal"
+					],
+					[
+						"find",
+						"findVal"
+					],
+					[
+						"left",
+						"leftMost"
+					],
+					[
+						"INT",
+						"INT_MAX"
+					],
+					[
+						"INT_",
+						"INT_MAX"
+					],
+					[
+						"INT_M",
+						"INT_MIN"
+					],
+					[
+						"st",
+						"start1"
+					],
+					[
+						"pre",
+						"prevMax"
+					],
+					[
+						"prev",
+						"prevMax"
+					],
+					[
+						"curr",
+						"currSum"
+					],
+					[
+						"begin",
+						"beginIndex"
+					],
+					[
+						"be",
+						"beginIndex"
+					],
+					[
+						"pri",
+						"prime"
+					],
+					[
+						"op",
+						"opera"
+					],
+					[
+						"oper",
+						"opera"
+					],
+					[
+						"opera",
+						"operate"
+					],
+					[
+						"num",
+						"num2"
+					],
+					[
+						"cla",
+						"calculate"
+					],
+					[
+						"end",
+						"end1"
+					],
+					[
+						"answ",
+						"answerNum"
+					],
+					[
+						"nu",
+						"number2"
+					],
+					[
+						"mul",
+						"multiply"
+					],
+					[
+						"numb",
+						"number2"
+					],
+					[
+						"next",
+						"nextNum1"
+					],
+					[
+						"nex",
+						"nextNum1"
+					],
+					[
+						"in",
+						"indEdges"
+					],
+					[
+						"word",
+						"word"
+					],
+					[
+						"uno",
+						"unordered_set"
+					],
+					[
+						"den",
+						"denominator"
+					],
+					[
+						"fr",
+						"fractionToDecimal"
+					],
+					[
+						"de",
+						"denominator"
+					],
+					[
+						"coff",
+						"coff"
+					],
+					[
+						"dist",
+						"distance"
+					],
+					[
+						"dic",
+						"diction"
+					],
+					[
+						"dict",
+						"diction"
+					],
+					[
+						"TR",
+						"TrieNode"
+					],
+					[
+						"Tri",
+						"TrieNode"
+					],
+					[
+						"get",
+						"getList"
+					],
+					[
+						"poss",
+						"possr"
+					],
+					[
+						"po",
+						"isPowerOfThree"
+					],
+					[
+						"push",
+						"push_back"
+					],
+					[
+						"tok",
+						"token2"
+					],
+					[
+						"toke",
+						"token2"
+					],
+					[
+						"vers",
+						"version2"
+					],
+					[
+						"string",
+						"stringstream"
+					],
+					[
+						"root",
+						"root1"
+					],
+					[
+						"co",
+						"copyRandomList"
+					],
+					[
+						"Ran",
+						"RandomListNode"
+					],
+					[
+						"Ra",
+						"RandomListNode"
+					],
+					[
+						"rnad",
+						"randomHead"
+					],
+					[
+						"cur",
+						"currWord"
+					],
+					[
+						"unord",
+						"unordered_map"
+					],
+					[
+						"cunt",
+						"count2"
+					],
+					[
+						"let",
+						"leftWall"
+					],
+					[
+						"val",
+						"valid"
+					],
+					[
+						"las",
+						"lastOne"
+					],
+					[
+						"last",
+						"lastOne"
+					],
+					[
+						"wo",
+						"word2"
+					],
+					[
+						"wor",
+						"word1"
+					],
+					[
+						"a",
+						"answer1"
+					],
+					[
+						"new",
+						"newInterval"
+					],
+					[
+						"inter",
+						"intervals"
+					],
+					[
+						"In",
+						"Interval"
+					],
+					[
+						"mult",
+						"multiplyWith"
+					],
+					[
+						"Err",
+						"Error4"
+					],
+					[
+						"Error",
+						"Error4"
+					],
+					[
+						"n-1-c",
+						"n-1-counter1"
+					],
+					[
+						"n-1-",
+						"n-1-counter1"
+					],
+					[
+						"sol",
+						"solveSudoku"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"answer",
+						"answer"
+					],
+					[
+						"divi",
+						"divide"
+					],
+					[
+						"reve",
+						"reverseKGroup"
+					],
+					[
+						"ined",
+						"index3"
+					],
+					[
+						"tr",
+						"tryAll"
+					],
+					[
+						"ie",
+						"index2"
+					],
+					[
+						"com",
+						"combinationSum4"
+					],
+					[
+						"lo",
+						"localSmallest"
+					],
+					[
+						"tot",
+						"totalLeft"
+					],
+					[
+						"reverse",
+						"reverseWords"
+					],
+					[
+						"is",
+						"isZero"
+					],
+					[
+						"Lin",
+						"ListNode"
+					],
+					[
+						"ino",
+						"inorderRetrive"
+					],
+					[
+						"lower",
+						"lowerAll"
+					],
+					[
+						"cu",
+						"count2"
+					],
+					[
+						"la",
+						"lanswer"
+					],
+					[
+						"coun",
+						"count2"
+					],
+					[
+						"un",
+						"unordered_map"
+					],
+					[
+						"foll",
+						"followeeId"
+					],
+					[
+						"follo",
+						"followeeId"
+					],
+					[
+						"user",
+						"userId"
+					],
+					[
+						"twee",
+						"tweetId"
+					],
+					[
+						"cm",
+						"combinationSum4"
+					],
+					[
+						"en",
+						"envelopes"
+					],
+					[
+						"psuh",
+						"push_back"
+					],
+					[
+						"isE",
+						"isEndr"
+					],
+					[
+						"isen",
+						"isEndr"
+					],
+					[
+						"upp",
+						"upper_bound"
+					],
+					[
+						"med",
+						"MedianFinder"
+					],
+					[
+						"fir",
+						"firstBadVersion"
+					],
+					[
+						"h",
+						"hIndex"
+					],
+					[
+						"grou",
+						"group2"
+					],
+					[
+						"all",
+						"allXor"
+					],
+					[
+						"ll",
+						"llevel"
+					],
+					[
+						"make",
+						"makeNewNode"
+					],
+					[
+						"sta",
+						"stackOp"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/sandeep/code/untitled1.cpp",
+					"settings":
+					{
+						"buffer_size": 2261,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 193.0,
+				"last_filter": "remove",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"pref",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"toggle",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 176.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sandeep/Downloads/A-small-attempt0.in",
+				"/home/sandeep/code/out.txt",
+				"/home/sandeep/Downloads/A-small-attempt1.in",
+				"/home/sandeep/code/untitled8.cpp",
+				"/home/sandeep/code/temp.cpp",
+				"/home/sandeep/code/untitled1.cpp",
+				"/home/sandeep/code/untitled4.cpp",
+				"/home/sandeep/code/untitled5.cpp",
+				"/home/sandeep/code/test.cpp",
+				"/home/sandeep/code/untitled7.cpp",
+				"/home/sandeep/code/untitled2.cpp",
+				"/home/sandeep/code/input.in",
+				"/home/sandeep/Downloads/B-small-attempt0 (4).in",
+				"/home/sandeep/Downloads/B-small-attempt0 (3).in",
+				"/home/sandeep/code/test.txt",
+				"/home/sandeep/Downloads/A-small-attempt0 (1).in",
+				"/home/sandeep/code/untitled3.cpp",
+				"/home/sandeep/Downloads/test.cpp",
+				"/home/sandeep/github/ICPC/CODEFORCES/60-C.cpp",
+				"/home/sandeep/github/ICPC/CODEFORCES/294-E.cpp",
+				"/home/sandeep/Downloads/animals_TREE.tsv",
+				"/home/sandeep/Downloads/ai_TREE.tsv",
+				"/home/sandeep/github/ICPC/CODEFORCES/528-D.cpp",
+				"/home/sandeep/github/ICPC/CODEFORCES/475-D.cpp",
+				"/home/sandeep/Selene/app/googleSignin.js",
+				"/home/sandeep/Selene/app/musixMatch.js",
+				"/home/sandeep/github/btp/apiTesting.js",
+				"/home/sandeep/github/ICPC/CODECHEF/CHPLNTS.cpp",
+				"/home/sandeep/github/ICPC/CODEFORCES/475-E.cpp",
+				"/home/sandeep/code/input.txt",
+				"/home/sandeep/code/test.in",
+				"/home/sandeep/github/ICPC/DinicFlow.cpp",
+				"/home/sandeep/github/ICPC/template.cpp",
+				"/home/sandeep/code/703-D.cpp",
+				"/home/sandeep/code/tree.txt",
+				"/home/sandeep/github/ICPC/trie.cpp",
+				"/home/sandeep/github/ICPC/treap.cpp",
+				"/home/sandeep/.cache/.fr-tA58LI/input002.txt",
+				"/home/sandeep/.cache/.fr-nCV2yD/output002.txt",
+				"/home/sandeep/.cache/.fr-2eRTp0/input002.txt",
+				"/home/sandeep/Downloads/Pani_CV (3).tex",
+				"/home/sandeep/Pani_CV/layaureo.sty",
+				"/home/sandeep/Pani_CV/titlesec.sty",
+				"/home/sandeep/Pani_CV/xltxtra.sty",
+				"/home/sandeep/.cache/.fr-tzR4R5/ReadMe.txt",
+				"/home/sandeep/Pani_CV/xunicode.sty",
+				"/home/sandeep/.cache/.fr-tFn2Qe/xunicode/README",
+				"/home/sandeep/Selene/app/routes/APIRouter.js",
+				"/home/sandeep/github/AnimeScrapper/app/routes/APIRouter.ja",
+				"/home/sandeep/github/AnimeScrapper/app",
+				"/home/sandeep/Selene/package.json",
+				"/home/sandeep/Downloads/sub-3.in",
+				"/home/sandeep/Downloads/B-small-practice.in",
+				"/home/sandeep/Downloads/B-large-practice.in",
+				"/home/sandeep/Downloads/B-small-practice (1).in",
+				"/home/sandeep/code/output.txt",
+				"/home/sandeep/.cache/.fr-PGSLmf/untitled1.cpp",
+				"/home/sandeep/Pani_CV/Pani_CV.aux",
+				"/home/sandeep/Pani_CV/Pani_CV.log",
+				"/home/sandeep/github/ICPC/auxilliaryTree.cpp",
+				"/home/sandeep/github/ICPC/blockCutTree.cpp",
+				"/home/sandeep/github/lepton-master/README.md",
+				"/home/sandeep/github/lepton-master/configure.ac",
+				"/home/sandeep/github/lepton-master/test_suite/sockettester.py",
+				"/home/sandeep/github/include/git2.h",
+				"/home/sandeep/github/include/git2/branch.h",
+				"/home/sandeep/github/include/untitled2.cpp",
+				"/home/sandeep/github/lepton-master/src/io/BoundedMemWriter.hh",
+				"/home/sandeep/github/lepton-master/src/io/Allocator.hh",
+				"/home/sandeep/github/lepton-master/dependencies/zlib/zutil.c",
+				"/home/sandeep/github/lepton-master/dependencies/zlib/zutil.h",
+				"/home/sandeep/github/lepton-master/dependencies/config.h",
+				"/home/sandeep/github/lepton-master/images/trailingrst2.jpg",
+				"/home/sandeep/github/lepton-master/images/truncatedzerorun.jpg",
+				"/home/sandeep/github/lepton-master/images/gray2sf.jpg",
+				"/home/sandeep/github/lepton-master/images/gold-legacy.lep",
+				"/home/sandeep/github/lepton-master/images/android.jpg",
+				"/home/sandeep/github/lepton-master/src/vp8/model/model.hh",
+				"/home/sandeep/github/lepton-master/src/lepton/test_custom_table.sh",
+				"/home/sandeep/github/lepton-master/src/lepton/recoder.cc",
+				"/home/sandeep/github/lepton-master/src/lepton/lepton_codec.hh",
+				"/home/sandeep/github/lepton-master/src/lepton/lepton_codec.cc",
+				"/home/sandeep/github/lepton-master/test_suite/forktester.py",
+				"/home/sandeep/github/lepton-master/analysis/make-cdf",
+				"/home/sandeep/github/lepton-master/test_suite/smalljpg.hh",
+				"/home/sandeep/github/lepton-master/src/vp8/model/JpegArithmeticCoder.cc",
+				"/home/sandeep/github/lepton-master/analysis/time-parser",
+				"/home/sandeep/code/temp.txt",
+				"/home/sandeep/Downloads/C-small-practice.in",
+				"/home/sandeep/Downloads/C-large-practice.in",
+				"/home/sandeep/Downloads/A-large.in",
+				"/home/sandeep/Downloads/B-small-attempt0.in",
+				"/home/sandeep/Downloads/B-small-attempt0 (1).in",
+				"/home/sandeep/.cache/.fr-jjK78R/C.cpp",
+				"/home/sandeep/Downloads/sub-6.out",
+				"/home/sandeep/Downloads/sub-6.in",
+				"/home/sandeep/.cache/.fr-rQ3AG2/untitled1.cpp",
+				"/home/sandeep/Downloads/untitled1.cpp",
+				"/home/sandeep/.config/sublime-text-3/Packages/C++11/messages/install.txt",
+				"/home/sandeep/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/sandeep/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/sandeep/.config/sublime-text-3/Packages/Material Theme/README.md",
+				"/home/sandeep/.config/sublime-text-3/Local/Session.sublime_session",
+				"/home/sandeep/ghostwriternr.github.io/js/app.js",
+				"/home/sandeep/Desktop_stuff/Questions/Question1",
+				"/home/sandeep/Selene/server.js",
+				"/home/sandeep/IR/FrontEnd/server.js",
+				"/home/sandeep/bot/app.js",
+				"/home/sandeep/locate",
+				"/home/sandeep/Downloads/B-small-practice (15).in",
+				"/home/sandeep/Downloads/B-small-practice (16).in",
+				"/home/sandeep/imp.txt",
+				"/home/sandeep/code/output1.txt",
+				"/home/sandeep/Downloads/B-small-practice (14).in",
+				"/home/sandeep/Downloads/B-small-practice (13).in",
+				"/home/sandeep/Downloads/B-small-practice (12).in",
+				"/home/sandeep/Downloads/B-small-practice (6).in",
+				"/home/sandeep/Downloads/B-small-practice (7).in",
+				"/home/sandeep/Downloads/B-small-practice (8).in",
+				"/home/sandeep/Downloads/B-small-practice (11).in",
+				"/home/sandeep/Downloads/B-small-practice (10).in",
+				"/home/sandeep/Downloads/B-small-practice (9).in",
+				"/home/sandeep/Downloads/B-small-practice (4).in",
+				"/home/sandeep/Downloads/B-small-practice (5).in",
+				"/home/sandeep/Downloads/B-small-practice (3).in",
+				"/home/sandeep/mutagen-1.31/README.rst",
+				"/home/sandeep/Desktop/picard-release-1.3.2/INSTALL.txt",
+				"/home/sandeep/Desktop/picard-release-1.3.2/README.md"
+			],
+			"find":
+			{
+				"height": 77.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"resl",
+					"A[i]",
+					"!flag",
+					"INT_MAX",
+					"sol",
+					"nums[",
+					"[i]",
+					"B[",
+					"A[",
+					"int",
+					"'X';",
+					"TreeNode",
+					"heap",
+					",",
+					"0",
+					"++;\n",
+					"val",
+					"mp1",
+					";\n",
+					">x",
+					">",
+					";\n",
+					"A[",
+					";\n",
+					"start1",
+					"shift",
+					"|| count1[j]==0",
+					"ll",
+					"k",
+					"p.size()",
+					"s.size()",
+					";\n",
+					"[i]",
+					"'){",
+					";\n",
+					"-'a'",
+					"0",
+					"isEnd",
+					" *",
+					"ll",
+					"+1",
+					".first",
+					";\n",
+					"'];\n",
+					"]]++;\n",
+					";\n",
+					" *",
+					"2",
+					"matrix",
+					"present",
+					"num[",
+					"a",
+					"			l=mid+1;\n",
+					";\n",
+					"int",
+					"();\n",
+					"asnwerHead",
+					"index",
+					"A[i]",
+					",",
+					"\n",
+					",",
+					"]);\n",
+					"Error",
+					"size1[edges[i].x.x]",
+					"size1[edges[i].x.y]",
+					"answerFirst",
+					");\n",
+					"//qwe",
+					"bitset",
+					"//qwe",
+					"')",
+					"\n",
+					"\n    ",
+					"\n",
+					"code",
+					"vi",
+					"}\n",
+					"val",
+					"edgeList",
+					"ignore",
+					"quant",
+					"qqwe",
+					";\n",
+					"a",
+					"find",
+					"a[i]",
+					"}\n",
+					"delete",
+					"v1",
+					"s2",
+					"->",
+					";\n",
+					"->",
+					"A",
+					"next",
+					"curr1",
+					"compare",
+					",",
+					";\n",
+					"i",
+					" >",
+					";\n",
+					"error",
+					"j",
+					"i",
+					"	\n",
+					";;\n",
+					"a",
+					";\n",
+					",",
+					";\n",
+					"();\n",
+					";\n",
+					"*",
+					"error",
+					");\n",
+					"ll",
+					");\n",
+					"child1",
+					"referPath",
+					"child",
+					"parent",
+					"error",
+					";\n",
+					"];\n",
+					"*",
+					"y"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\n",
+					"index1",
+					"\\n",
+					"\"\\n\"",
+					"",
+					"//error",
+					"index1",
+					"hash1",
+					"",
+					"prev11",
+					"dp1",
+					"prev1",
+					"-10000000000000000LL",
+					"parent",
+					"'",
+					"40",
+					"buffer",
+					"args2",
+					"prev1",
+					"rank1",
+					"=",
+					"next_state",
+					"cur_state",
+					"",
+					"  ",
+					" ",
+					"",
+					"out",
+					"13CS30027",
+					"yytext[0]"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/sandeep/code/untitled1.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2261,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2151,
+										2151
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1107.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 76.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 61.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 29.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,24,960,1050,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 125.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 444.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 444.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 227.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 483,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/sandeep/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/sublimetutor.sublime-workspace"
+		]
+	}
+}

@@ -1,0 +1,1 @@
+{"description": "An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3", "dependencies": [], "sublime_text": ">=3000", "version": "0.1.5", "url": "https://sublimetutor.com", "platforms": ["linux"]}

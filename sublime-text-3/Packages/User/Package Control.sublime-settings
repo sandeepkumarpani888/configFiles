@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C++11",
+		"Clang Format",
+		"HTML-CSS-JS Prettify",
+		"Materialize",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"Sublime Tutor"
+	]
+}
